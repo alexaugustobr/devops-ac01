@@ -1,5 +1,5 @@
 Requisitos:
 
-- Cada membro ter· 3 esportes preferidos.
-- O site ser· uma p·gina ˙nica chamada: Index.html
-- No topo da p·gina, um link para direcionar para a ·rea de cada membro.
+- Cada membro ter√° 5 esportes preferidos.
+- O site ser√° uma p√°gina √∫nica chamada: Index.html
+- No topo da p√°gina, um link para direcionar para a √°rea de cada membro.
