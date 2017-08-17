@@ -1,24 +1,36 @@
 Requisitos:
 
-- Cada membro ter· 3 esportes preferidos. - OK
-- O site ser· uma p·gina ˙nica chamada: Index.html - OK
-- No topo da p·gina, um link para direcionar para a ·rea de cada membro. - OK
+- Cada membro ter√° 5 esportes preferidos. - OK
+- O site ser√° uma p√°gina √∫nica chamada: Index.html - OK
+- No topo da p√°gina, um link para direcionar para a √°rea de cada membro. - OK
 
- O cabeÁalho da pagina ira conter uma lista com o nome dos integrantes. - OK
- O conteudo principal da pagina ira conter uma seÁ„o para cada um dos integrantes contendo tres esportes favoritos de cada um. - OK
- Ao clicar no nome de algum integrante ira descer para uma das sessıes. - OK
- E um bot?o de voltar para ir ao inicio. - OK
- 
- Esportes de cada um:
- andre:
- futebol, volei, automobilismo. - OK
- Carlos:
- futebol, basquete, bilhar. - OK
- vinicius:
- futebol, basquete, futebol americano. - OK
- Samuel:
- poker, tenis, skate. - OK 
- Alex:
- xadrez, poker, damas. - OK
- Cinthia:
- Truco, Ciclismo, Patins. - OK 
+Tarefa 1 - OK 
+O cabe√ßalho da pagina ira conter uma lista com o nome dos integrantes
+O conteudo principal da pagina ira conter uma se√ß√£o para cada um dos integrantes contendo tres esportes favoritos de cada um
+Ao clicar no nome de algum integrante ira descer para uma das sess√µes
+E um bot√£o de voltar para ir ao inicio.
+
+Esportes de cada um:
+Michael
+futebol, basquete, bilhar
+Samuel
+poker, tenis, skate
+Alex
+xadrez, poker, damas
+Cinthia
+truco, ciclismo, patins
+
+
+Tarefa 2 - OK 
+Adicionar mais esportes
+Alex
+xadrez, poker, damas, PoliDance, Corrida
+
+Samuel
+poker, tenis, skate, Tenis de Mesa, Volei
+
+Cinthia
+truco, ciclismo, patins, Paraquedismo, Pole Dance
+
+Michael
+futebol, basquete, bilhar, Tenis de Mesa, Karate
